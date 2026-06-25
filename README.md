@@ -111,5 +111,5 @@ along with Sora. If not, see <https://www.gnu.org/licenses/>.
 The developers assume no responsibility for user actions or content. This software is provided "as-is" without warranties. Users bear full responsibility for their use of the software and any modules.
 
 ### Modules
-Sora does not include any modules. Third-party modules are the responsibility of their creators, not the Sora developers.
+Sora does not include any modules. Third-party modules are the responsibility of their creators, not the Sora developers!
 
